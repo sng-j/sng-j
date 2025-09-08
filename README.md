@@ -1,13 +1,13 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/Trouvler"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/sng-j"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=Trouvler">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Trouvler&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=sng-j">
+  <img align="right" src="https://komarev.com/ghpvc/?username=sng-j&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -30,8 +30,8 @@
 </p>
 <!-- About Section -->
 <p align="center">
-  <a href="https://github.com/Trouvler">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trouvler&theme=radical" alt="^.^"/>
+  <a href="https://github.com/sng-j">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sng-j&theme=radical" alt="^.^"/>
   </a>
 </p>
  # About me
@@ -42,7 +42,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: youtube@kakao.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Trouvler/Trouvler/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/sng-j/sng-j/issues)
 
 </p>
 
@@ -74,12 +74,12 @@
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&labelColor=white&logo=firebase&logoColor=FFCA28)
 ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&labelColor=white&logo=amazonaws&logoColor=232F3E)
 
-<a href="https://github.com/Trouvler"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Trouvler&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/sng-j"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sng-j&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <br/>
 <p align="left">
-  <a href="https://github.com/Trouvler?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/sng-j?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -87,8 +87,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Trouvler">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trouvler&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/sng-j">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sng-j&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
